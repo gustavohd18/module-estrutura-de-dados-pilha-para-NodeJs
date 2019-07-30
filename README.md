@@ -1,0 +1,2 @@
+# Modulo-de-estrutura-de-dados-Pilha
+Este modulo foi criado com o intuito de aplicar conhecimentos adquiridos durante a graduação e disponibilizar um modulo para NodeJs disponivel atráves do NPM. Para utilizar o modulo com o Node utilize o comando npm install firstmodulepilha onde nesta primeira versão conta com os métodos tradicionais de push, pop, top, isEmpty, isFull onde pode ser passado o tamanho da pilha por paramêtro ou não caso não seja passado paramêtro a pilha nunca fica totalmente cheia, fique a vontade para contribuir com o projeto.
