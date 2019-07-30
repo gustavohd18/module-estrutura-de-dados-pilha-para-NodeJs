@@ -1,0 +1,15 @@
+{
+  "name": "firstmodulepilha",
+  "version": "1.0.0",
+  "description": "Create a simple global module with Nodejs",
+  "main": "Pilha.js",
+  "bin": {
+    "my-module": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gustavo Duarte",
+  "license": "ISC"
+}
